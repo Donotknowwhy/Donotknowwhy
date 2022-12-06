@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Donotknowwhy
+- 👋 Hi, I’m @Donotknowwhy as @kiencx
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning Fullstacks
 - 📫 How to reach me: https://www.linkedin.com/in/kienxuan217
